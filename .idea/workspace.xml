@@ -9,11 +9,66 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TennisJudge.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TennisJudge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_tennisJudge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_tennisJudge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="903">
+              <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_tennisGame2.py" />
+        <option value="$PROJECT_DIR$/TennisGame2.py" />
+        <option value="$PROJECT_DIR$/test_tennisGame.py" />
+        <option value="$PROJECT_DIR$/TennisGame.py" />
+        <option value="$PROJECT_DIR$/test_tennisJudge.py" />
+        <option value="$PROJECT_DIR$/TennisJudge.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-37" />
     <option name="y" value="61" />
     <option name="width" value="1680" />
     <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -34,6 +89,9 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -45,6 +103,89 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_tennisJudge.py">
+    <configuration name="Unittests for test_tennisGame.TestTennisGame" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TennisGame2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tennisGame.TestTennisGame&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_tennisGame.TestTennisGame.test_fifteen_love" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TennisGame2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tennisGame.TestTennisGame.test_fifteen_love&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_tennisGame.TestTennisGame.test_love_fifteen" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TennisGame2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tennisGame.TestTennisGame.test_love_fifteen&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_tennisGame.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TennisGame2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_tennisGame.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_tennisJudge.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TennisGame2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_tennisJudge.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in test_tennisGame.py" />
+      <item itemvalue="Python tests.Unittests for test_tennisGame.TestTennisGame.test_love_fifteen" />
+      <item itemvalue="Python tests.Unittests for test_tennisGame.TestTennisGame.test_fifteen_love" />
+      <item itemvalue="Python tests.Unittests for test_tennisGame.TestTennisGame" />
+      <item itemvalue="Python tests.Unittests in test_tennisJudge.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_tennisJudge.py" />
+        <item itemvalue="Python tests.Unittests in test_tennisGame.py" />
+        <item itemvalue="Python tests.Unittests for test_tennisGame.TestTennisGame" />
+        <item itemvalue="Python tests.Unittests for test_tennisGame.TestTennisGame.test_fifteen_love" />
+        <item itemvalue="Python tests.Unittests for test_tennisGame.TestTennisGame.test_love_fifteen" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,20 +200,53 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 36m 19s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 36m 53s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 39m 29s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 39m 48s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 40m 16s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 41m 23s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 44m 15s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 45m 44s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 46m 11s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_tennisJudge_py - 2018.04.23 at 22h 48m 48s.xml">
+      <configuration name="Unittests in test_tennisJudge.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19702381" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19702381" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -83,5 +257,47 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_tennisGame2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TennisGame2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tennisGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TennisGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tennisJudge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TennisJudge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
